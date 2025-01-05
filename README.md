@@ -54,7 +54,9 @@ Feel free to check them out on my repositories!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImArijitBasu&layout=compact&theme=tokyonight)
 
 ### 📈 GitHub Activity Graph
-[![Arijit's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ImArijitBasu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Arijit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImArijitBasu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🌐 Dynamic Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=ImArijitBasu&color=blue&style=flat-square&label=VISITORS)
