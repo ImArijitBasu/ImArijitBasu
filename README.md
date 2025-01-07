@@ -31,16 +31,6 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a keen i
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🛠️ Projects
-
-Here are some of my key projects:
-
-1. **GadgetHeaven**: A responsive e-commerce platform for buying gadgets. Built using React.js and Tailwind CSS.
-2. **Chill Gamer**: A game review application with React and MongoDB.
-3. **Discount PRO**: A coupon collecting app that helps users save on shopping. Built with Tailwind CSS and React.
-4. **RentRide**: A car rental system built with React.js, Node.js, Express, and MongoDB.
-
-Feel free to check them out on my repositories!
 
 ## 🌟 GitHub Stats
 
@@ -65,7 +55,8 @@ Feel free to check them out on my repositories!
 
 ## 💬 Let's Connect
 
-- LinkedIn: [Arijit Basu](https://www.linkedin.com/in/arijit-basu-606626310/)
+- LinkedIn: [Link 🔗](https://www.linkedin.com/in/arijit-basu-606626310/)
+- Facebook: [Link 🔗](https://www.facebook.com/originaljit)
 - Portfolio: [https://arijitbasu.netlify.app/](https://arijitbasu.netlify.app/)
 
 Thanks for visiting my GitHub profile! 🚀
