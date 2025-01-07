@@ -1,3 +1,5 @@
+![Banner Image](https://github.com/ImArijitBasu/ImArijitBasu/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 # Hello, I'm Arijit Basu 👋
 
 Welcome to my GitHub profile! I'm a passionate Front-End Developer with a keen interest in web development, open-source contributions, and exploring new technologies.
