@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a keen i
 - 🤔 I’m exploring new **technologies** and **tools** to improve my development skills.
 - 💬 Ask me about **JavaScript**, **CSS**, **React**, **Tailwind CSS**, and anything related to **web development**.
 - 📚 I’m also learning about **MongoDB**, **Node.js**, and **Express** for full-stack development.
-- 📧 How to reach me: [arijitbasubd@gmail.com](mailto:arijitbasubd@gmail.com)
+- 📧 How to reach me: [Email](mailto:arijitbasubd@gmail.com)
+- 👤 Visit my [Portfolio](https://arijitbasu.netlify.app/) from here.
 
 ## 🔧 Technologies & Tools
 
